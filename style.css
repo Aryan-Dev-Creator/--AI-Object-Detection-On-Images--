@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    margin: 0px;
+    font-size: 30px;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+    font:'white'
+}
